@@ -157,7 +157,7 @@ const Contact = () => {
                   </div>
                   <div>
                     <h4 className="font-semibold text-gray-900">Phone</h4>
-                    <p className="text-gray-600">+1 (555) 123-4567</p>
+                    <p className="text-gray-600">+91 9478669140</p>
                     <p className="text-sm text-gray-500">Available 24/7 for AI support</p>
                   </div>
                 </div>
@@ -167,7 +167,7 @@ const Contact = () => {
                   </div>
                   <div>
                     <h4 className="font-semibold text-gray-900">Email</h4>
-                    <p className="text-gray-600">hello@learnwellacademy.com</p>
+                    <p className="text-gray-600">learnwellacademy@gmail.com</p>
                     <p className="text-sm text-gray-500">AI-powered responses within 1 hour</p>
                   </div>
                 </div>
@@ -177,7 +177,7 @@ const Contact = () => {
                   </div>
                   <div>
                     <h4 className="font-semibold text-gray-900">Global Office</h4>
-                    <p className="text-gray-600">123 Innovation Drive, Tech City, TC 12345</p>
+                    <p className="text-gray-600">59 FF, Sukh City, Sector - 123, Mohali (140301)</p>
                     <p className="text-sm text-gray-500">Serving students worldwide</p>
                   </div>
                 </div>
@@ -188,7 +188,7 @@ const Contact = () => {
                   <div>
                     <h4 className="font-semibold text-gray-900">AI Learning Hours</h4>
                     <p className="text-gray-600">24/7 AI Assistance Available</p>
-                    <p className="text-sm text-gray-500">Live mentors: Mon-Sun 6AM-10PM</p>
+                    <p className="text-sm text-gray-500">Live mentors: Mon-Sun 10AM-6PM</p>
                   </div>
                 </div>
               </div>

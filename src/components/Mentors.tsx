@@ -4,59 +4,23 @@ import { Star, BookOpen, Brain, Award } from 'lucide-react';
 const Mentors = () => {
   const mentors = [
     {
-      name: "Dr. Sarah Chen",
+      name: "Mrs Rajwant Kaur",
       image: "https://images.pexels.com/photos/5212317/pexels-photo-5212317.jpeg?auto=compress&cs=tinysrgb&w=400",
-      specialization: "Mathematics & AI Analytics",
+      specialization: "All Subject",
       experience: "8 years",
       rating: 4.9,
       students: 500,
       aiExpertise: "Machine Learning Applications"
     },
     {
-      name: "Prof. Michael Rodriguez",
+      name: "Mr Deepinderpal Singh",
       image: "https://images.pexels.com/photos/5212345/pexels-photo-5212345.jpeg?auto=compress&cs=tinysrgb&w=400",
-      specialization: "Science & AI Simulations",
+      specialization: "All Programming Languages",
       experience: "12 years",
       rating: 4.8,
       students: 750,
-      aiExpertise: "Virtual Lab Technologies"
+      aiExpertise: "Mobile/Web App Development"
     },
-    {
-      name: "Ms. Emily Johnson",
-      image: "https://images.pexels.com/photos/5212361/pexels-photo-5212361.jpeg?auto=compress&cs=tinysrgb&w=400",
-      specialization: "English & AI Language Tools",
-      experience: "6 years",
-      rating: 4.9,
-      students: 400,
-      aiExpertise: "Natural Language Processing"
-    },
-    {
-      name: "Dr. David Kumar",
-      image: "https://images.pexels.com/photos/5212318/pexels-photo-5212318.jpeg?auto=compress&cs=tinysrgb&w=400",
-      specialization: "Programming & AI Development",
-      experience: "10 years",
-      rating: 4.9,
-      students: 600,
-      aiExpertise: "Code Intelligence & Automation"
-    },
-    {
-      name: "Ms. Lisa Wang",
-      image: "https://images.pexels.com/photos/5212320/pexels-photo-5212320.jpeg?auto=compress&cs=tinysrgb&w=400",
-      specialization: "Web Dev & AI Design",
-      experience: "7 years",
-      rating: 4.8,
-      students: 350,
-      aiExpertise: "AI-Powered UI/UX Design"
-    },
-    {
-      name: "Prof. James Thompson",
-      image: "https://images.pexels.com/photos/5212319/pexels-photo-5212319.jpeg?auto=compress&cs=tinysrgb&w=400",
-      specialization: "App Development & AI Integration",
-      experience: "9 years",
-      rating: 4.9,
-      students: 450,
-      aiExpertise: "Mobile AI Applications"
-    }
   ];
 
   return (
